@@ -13,10 +13,13 @@ Assemble the .asm file into output .com file. Skip this step if .com file is pre
 4. snake.com
 Run the output file.
 
-Screenshots of application are shown below.
+Screenshots of application are shown below:
 
 ![](images/1.png)
+
 ![](images/2.png)
+
 ![](images/3.png)
+
 ![](images/4.png)
 
